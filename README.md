@@ -1,16 +1,15 @@
-# kisahaber
+# Kısa Haber Mobil Uygulaması
 
-Sadece haber okuyun.
+Kısa Haber Mobil Uygulaması, Flutter ile geliştirilmiş bir haber uygulamasıdır. Uygulama, [Kısa Haber](https://kisahaber.templategalaxy.dev) sitesinin mobil uygulamasıdır.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- API üzerinden RSS feed listesi çekme
+- RSS feed listesindeki haber kaynaklarının listelenmesi
+- Haber kaynaklarına ait haberlerin listelenmesi
+- Haber detay sayfası
+- Özel RSS feed ekleme
 
-A few resources to get you started if this is your first Flutter project:
+## Kurulum
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Google Play Store: İndir](https://play.google.com/store/apps/details?id=com.tugrulyildirim.kisahaber.kisahaber)
